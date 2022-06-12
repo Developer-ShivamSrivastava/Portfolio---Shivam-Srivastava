@@ -572,10 +572,10 @@ progress {
 }
 
 .img-fluid {
-  /* width: auto; */
-  /* height: auto; */
-  height: 450px;
-  width: 370px;
+  /* height: 450px;
+  width: 370px; */
+  height: 380px;
+  width: 522px;
 }
 
 .img-thumbnail {
