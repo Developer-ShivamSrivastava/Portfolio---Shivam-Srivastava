@@ -572,8 +572,11 @@ progress {
 }
 
 .img-fluid {
-  /* height: 450px;
-  width: 370px; */
+  height: 450px;
+  width: 370px;
+}
+
+.portfolio-img{
   height: 380px;
   width: 522px;
 }
